@@ -300,7 +300,7 @@ section{width:100%;padding-block:clamp(44px,4vw,66px)}
 .logo-window:hover .logo-track{animation-play-state:paused}
 .logo-slot{width:148px;height:78px;flex:0 0 148px;border:1px solid rgba(22,32,24,.12);border-radius:20px;background:rgba(255,250,241,.78);display:grid;place-items:center;box-shadow:0 10px 30px rgba(39,48,35,.06);transition:transform .25s,box-shadow .25s,background .25s}
 .logo-slot:hover{transform:translateY(-5px) scale(1.03);box-shadow:0 18px 40px rgba(39,48,35,.12);background:#fffaf1}
-.logo-slot span{font-size:11px;letter-spacing:.12em;font-weight:900;color:var(--muted)}
+/*.logo-slot span{font-size:11px;letter-spacing:.12em;font-weight:900;color:var(--muted)}*/
 .logo-note{text-align:center;color:var(--muted);font-size:11px;margin-top:12px;letter-spacing:.04em}
 @keyframes brandMarquee{from{transform:translateX(0)}to{transform:translateX(calc(-50% - 7px))}}
 .contact-eyebrow{justify-content:center;color:var(--gold)}
